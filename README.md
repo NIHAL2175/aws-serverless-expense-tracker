@@ -32,7 +32,6 @@ User → API Gateway → Lambda → DynamoDB → Response → UI
 ### 🧰 Tech Stack
 
 • EC2 Instance
-
 • AWS Lambda  
 • API Gateway  
 • DynamoDB  
