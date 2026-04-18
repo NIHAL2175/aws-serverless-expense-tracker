@@ -32,11 +32,12 @@ User → API Gateway → Lambda → DynamoDB → Response → UI
 ### 🧰 Tech Stack
 
 • EC2 Instance
+
 • AWS Lambda  
 • API Gateway  
 • DynamoDB  
 • CloudWatch  
-• HTML, CSS, JavaScript  
+• HTML, CSS, C#, JavaScript  
 
 ---
 
@@ -45,7 +46,7 @@ User → API Gateway → Lambda → DynamoDB → Response → UI
 | Directory        | Description                                      |
 |------------------|--------------------------------------------------|
 | architecture/    | System design and architecture overview          |
-| frontend/        | UI files (HTML, CSS, JS)                         |
+| frontend/        | UI files (HTML, CSS, C#, JS)                     |
 | docs/            | Setup guide and API details                      |
 | working-demo/    | Screenshots or demo of the application           |
 
